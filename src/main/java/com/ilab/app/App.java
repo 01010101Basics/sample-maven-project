@@ -6,8 +6,8 @@ package.ilab.app;
 
  public class App 
  {
-    public static void main(string[] args)
+    public static void main(String[] args)
     {
-        System.out.printin("Hello World");
+        System.out.println("Hello World");
     }
  }
