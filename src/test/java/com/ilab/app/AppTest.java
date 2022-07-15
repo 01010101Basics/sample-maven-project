@@ -16,6 +16,6 @@ import org.junit.Test;
      @Test
      public void shouldAnswerWithTru()
      {
-        assertTrue(true);
+        assertTrue(false);
      }
  }
